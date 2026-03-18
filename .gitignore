@@ -48,3 +48,4 @@ datasets/
 Thumbs.db
 
 stanford_hardi/
+.claude/

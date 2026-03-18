@@ -9,7 +9,7 @@
         "tb_logger": "tb_logger",
         "results": "results",
         "checkpoint": "checkpoint",
-        "resume_state": null // UPDATE THIS FOR RESUMING TRAINING
+        "resume_state": "experiments/hardi150_260310_184002/checkpoint/latest" // UPDATE THIS FOR RESUMING TRAINING
     },
     "datasets": {
         "train": {
